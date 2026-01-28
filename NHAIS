@@ -1,0 +1,46 @@
+nhais-national-health-ai/
+│
+├── README.md
+│
+├── docs/
+│   ├── national-problem-statement.md
+│   ├── solution-architecture.md
+│   ├── workflow-diagrams.md
+│   ├── ghana-health-context.md
+│
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   ├── app.js
+│
+├── backend/
+│   ├── api/
+│   │   ├── auth.js
+│   │   ├── reports.js
+│   │   ├── nhis.js
+│   │   └── ai-notes.js
+│   │
+│   ├── database/
+│   │   └── schema.sql
+│
+├── ai/
+│   ├── speech-to-text.md
+│   ├── clinical-nlp.md
+│   ├── coding-assist.md
+│
+├── data-standards/
+│   ├── icd-codes.md
+│   ├── nhis-formats.md
+│   └── interoperability.md
+│
+├── security/
+│   ├── privacy-policy.md
+│   └── data-protection.md
+│
+├── roadmap/
+│   ├── phase-1-pilot.md
+│   ├── phase-2-scale.md
+│   └── phase-3-national.md
+│
+├── LICENSE
+└── CONTRIBUTING.md
